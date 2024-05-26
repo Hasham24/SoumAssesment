@@ -15,6 +15,7 @@ const useStyle = () => {
     },
     subTitle: {
       fontSize: FontSize.standard,
+      color: Colors.black,
       fontWeight: '500',
     },
   });

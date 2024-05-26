@@ -26,6 +26,7 @@ const useStyle = () => {
     },
     selectedText: {
       fontSize: FontSize.standard,
+      color: Colors.black,
     },
   });
 };

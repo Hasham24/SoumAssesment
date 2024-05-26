@@ -19,9 +19,9 @@ const useStyle = () => {
       marginVertical: 5,
     },
     itemCount: {
-      fontSize: 12,
-      color: '#888',
       marginLeft: 10,
+      fontSize: 12,
+      color: Colors.gray,
     },
   });
 };
