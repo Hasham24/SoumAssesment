@@ -1,6 +1,6 @@
 import React, {FC} from 'react';
 import {View, Text, TouchableOpacity} from 'react-native';
-import {CheckBox} from '../checkbox';
+import {CheckBox} from '~components';
 import useStyles from './styles';
 
 export const ExpandableCheckbox: FC<IExpandableCheckboxProps> = props => {

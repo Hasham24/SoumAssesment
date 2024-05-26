@@ -1,7 +1,6 @@
 import React, {memo, FC} from 'react';
 import {ScrollView, View, Text} from 'react-native';
-import {ExpandableCheckbox} from '../buttons';
-import {SelectedItem} from '../lists';
+import {ExpandableCheckbox, SelectedItem} from '~components';
 import useProductTree from './useProductTree';
 import useStyles from './styles';
 
