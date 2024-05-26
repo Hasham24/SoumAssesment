@@ -11,6 +11,7 @@ const useStyle = () => {
     },
     selectedTitle: {
       fontSize: FontSize.regular,
+      color: Colors.black,
       fontWeight: 'bold',
       marginBottom: 10,
     },
